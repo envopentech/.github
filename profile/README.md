@@ -51,5 +51,8 @@ Whether you're an experienced developer or just starting your journey, there's a
 - **Team**: [Meet Our Team](https://envopen.org/team.html)
 - **Projects**: [View All Projects](https://envopen.org/projects.html)
 
+## Policy for contribution
+All commits within a repository for a "sensitive" project MUST be verified with a signature. Sensitive projects include things like FluxStore, as it comes with deep system access through the use of root-level commands, any SHDC Library, as it is important infrastructure, and any webpages associated with the domain envopen.org and its subdomains as it represetns our company and community. Other contributions to non critical projects (OddOrEven for example) Still require review, but need not be signed, however verified commits are greatly appeciated as it helps us verify that it is you contributing. 
+
 ---
 *Open Source, Forever* ∞
