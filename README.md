@@ -23,14 +23,15 @@ A world where open-source software is the foundation of technological advancemen
 - **Innovation**: Rapid iteration and improvement from diverse perspectives
 - **Accessibility**: Freely available to everyone, removing barriers to technology
 
-## Current Projects
+## 🛠️ Projects
 
-### Active Development
-- **[Py-SHDC](https://github.com/envopentech/py-shdc)** - Python implementation of the SHDC (Smart Home Device Communications) protocol
-- **[DevCheck](https://github.com/envopentech/DevCheck)** - Command line tool for comprehensive codebase checks
+Our organization hosts several open-source projects:
 
-### Completed
-- **[OddOrEven](https://github.com/envopentech/OddOrEven)** - Python library for odd/even number detection
+- **[Py-SHDC](https://github.com/envopen/py-shdc)** - Python implementation of the SHDC (Smart Home Device Communications) protocol
+- **[DevCheck](https://github.com/envopen/DevCheck)** - Command line tool for comprehensive codebase checks
+- **[Standards Documentation](https://github.com/envopen/standards)** - Our development standards and best practices
+- **[Security & Compliance Tools](https://github.com/envopen/security-compliance)** - Tools and guides for security compliance
+- **[OddOrEven](https://github.com/envopen/OddOrEven)** - Python library for odd/even number detection
 
 ### Planning
 - **Env Open Business Suite** - Comprehensive business tools suite
