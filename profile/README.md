@@ -25,16 +25,17 @@ A world where open-source software is the foundation of technological advancemen
 
 ## 🛠️ Projects
 
-Our organization hosts several open-source projects:
+Our organization hosts several open-source projects, check them out in the repositories pane!
 
-- **[Py-SHDC](https://github.com/envopen/py-shdc)** - Python implementation of the SHDC (Smart Home Device Communications) protocol
-- **[DevCheck](https://github.com/envopen/DevCheck)** - Command line tool for comprehensive codebase checks
-- **[Standards Documentation](https://github.com/envopen/standards)** - Our development standards and best practices
-- **[Security & Compliance Tools](https://github.com/envopen/security-compliance)** - Tools and guides for security compliance
-- **[OddOrEven](https://github.com/envopen/OddOrEven)** - Python library for odd/even number detection
+### Education
+Try the beta of our code learning site [Env Open Education](https://www.edu.envopen.org) NOTE: The SSL Certificate does work, but is for some reason showing invalid. Please keep in mind that the website is safe, but we do NOT ask for ANY information, you should not have to sign up when using Env Open Education, and it is free to use with NO premium features. This issue is well known and is being worked on.
+If you have a problem or suggestion, open an issue on the Env Open Education repository here on github.
 
 ### Planning
 - **Env Open Business Suite** - Comprehensive business tools suite
+- DevCheck -- Code checking and standardisation tool
+- ClearID -- Identity verification
+- LocalEngine -- Text localisation designed specifically for Env Open.
 
 ## Our Commitment
 
@@ -54,6 +55,13 @@ Whether you're an experienced developer or just starting your journey, there's a
 
 ## Policy for contribution
 All commits within a repository for a "sensitive" project MUST be verified with a signature. Sensitive projects include things like FluxStore, as it comes with deep system access through the use of root-level commands, any SHDC Library, as it is important infrastructure, and any webpages associated with the domain envopen.org and its subdomains as it represetns our company and community. Other contributions to non critical projects (OddOrEven for example) Still require review, but need not be signed, however verified commits are greatly appeciated as it helps us verify that it is you contributing. 
+
+## Out next steps
+- Localisation for all projects (Community sourced)
+- Ensuring proper standard compliance for ALL apps
+- Linux package manager repositories (Apt, etc)
+- winget repository
+- Standardised installer files
 
 ---
 *Open Source, Forever* ∞
